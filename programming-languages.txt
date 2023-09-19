@@ -1,5 +1,0 @@
-- Java
-- Python
-- C#
-- SQLite
-- C++
