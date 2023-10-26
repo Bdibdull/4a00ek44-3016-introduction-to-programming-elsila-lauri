@@ -189,11 +189,12 @@ class e13 {
     {
         try{
             Thread.sleep(ms);
-            } catch(Exception e){
+        } catch(Exception e){
                 //ei mitään tarvetta tälle
             }
     }
 
+    //poistaa annetun määrän rivejä, toimii about
     public static void kumita(int rivei)
     {
         //mennään rivin alkuun ja kumitetaan koko rivi
