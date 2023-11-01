@@ -1,7 +1,8 @@
-package fi.tuni.tamk.tiko.laurielsila.util;
 
-public class Math {
-    public static int getRandom(int min, int max) {
-        return min + (int) (java.lang.Math.random() * ((max - min) + 1));
+package fi.tuni.tamk.tiko.yourname.util;
+
+public class Arrays {
+    public static int[] toIntArray(String[] array) {
+
     }
 }

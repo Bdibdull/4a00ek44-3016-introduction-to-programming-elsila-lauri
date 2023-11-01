@@ -1,6 +1,6 @@
 import java.io.Console;
 
-class e07
+class e08
 {
     static Console c = System.console();
 
